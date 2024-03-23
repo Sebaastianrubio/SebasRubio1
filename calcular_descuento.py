@@ -12,7 +12,6 @@ descuento = (montoTotal * 10) /100
 Total_Pago = montoTotal_descuento
 
 #Salidas
-
 print(nombre,'Usted compro',cantidad,'celulares')
 print('valor sin Descuento es:',montoTotal)
 print('Descuento del 10%:',descuento)
